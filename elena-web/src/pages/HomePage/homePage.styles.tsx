@@ -6,7 +6,6 @@ export const PageContainer = styled.div({
     minHeight: '100vh',
     backgroundColor: 'black',
     color: 'white',
-    // overflow: 'hidden'
 });
 
 
