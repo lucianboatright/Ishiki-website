@@ -16,8 +16,8 @@ export const StyledContainer = styled.li<StyledContainerProps>((props) => ({
     height: 'auto',
     fontSize: '50px',
     color: 'white',
-    marginLeft: '20px',
-    marginRight: '20px',
+    marginLeft: '40px',
+    marginRight: '40px',
     borderTop: `0.5px solid ${props.BorderColor}`,
 }));
 
