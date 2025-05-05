@@ -1,7 +1,7 @@
 [build]
   base = "elena-web"
   command = "npm run build"
-  publish = "elena-web/dist"
+  publish = "dist"
 
 [build.environment]
   NODE_VERSION = "18"
