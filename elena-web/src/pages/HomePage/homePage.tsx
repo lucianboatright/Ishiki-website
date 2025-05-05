@@ -1,3 +1,4 @@
+import React from 'react'
 import { Footer } from '../../components/footer'
 import { ReviewVideo } from '../../components/Iframe/iframe'
 import { PageContainer, StyledContainer } from './homePage.styles'

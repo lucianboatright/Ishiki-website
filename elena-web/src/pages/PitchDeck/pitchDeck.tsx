@@ -1,3 +1,4 @@
+import React from 'react'
 import { Footer } from '../../components/footer'
 import { InfoBar } from '../../components/InfoBar/infoBar'
 import { PageContainer } from './pitchDeck.styles'

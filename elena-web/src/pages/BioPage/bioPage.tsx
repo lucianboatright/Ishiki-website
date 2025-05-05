@@ -1,3 +1,4 @@
+import React from 'react'
 import { Footer } from '../../components/footer'
 import { LeftColumn, PageWrapper, RightColumn, StyledText, StyledTitle } from './bioPage.styles'
 
