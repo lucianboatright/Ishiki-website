@@ -6,6 +6,7 @@ export const PageContainer = styled.div({
     minHeight: '100vh',
     backgroundColor: 'black',
     color: 'white',
+    paddingRight: '30px',
 });
 
 
@@ -17,5 +18,5 @@ export const StyledContainer = styled.div({
     paddingBottom: '3rem',
     fontSize: '200px',
     color: 'white',
-    marginLeft: '10px',
+    marginLeft: '30px',
 });
