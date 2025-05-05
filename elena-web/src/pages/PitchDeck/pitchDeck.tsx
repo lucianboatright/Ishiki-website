@@ -1,12 +1,14 @@
 import React from 'react'
-import { Footer } from '../../components/footer'
+import { Footer } from '../../components/Footer/footer'
 import { InfoBar } from '../../components/InfoBar/infoBar'
 import { PageContainer } from './pitchDeck.styles'
+import { Header } from '../../components/Header/header'
 
 export const PitchDeck: React.FC = () => {
   return (
     <>
     <PageContainer>
+      <Header />
       <InfoBar Initial={'I'} Name={'intentional'} Text={'We approach filming with deep awarness and purpose.'} FirstColor={'black'} SecondColor={'grey'} BorderColor={'#3a3a3a'} />
       <InfoBar Initial={'S'} Name={'symbiotic'} Text={'We ensure technology and creativity grow together.'} FirstColor={'#0055ff'} SecondColor={'#4d77ff'} BorderColor={'#2953f4'} />
       <InfoBar Initial={'H'} Name={'honest'} Text={'We create with integrity, truth, and emotional depth.'} FirstColor={'rgb(73 48 141)'} SecondColor={'#bf40bf'} BorderColor={'#8f45b0'} />

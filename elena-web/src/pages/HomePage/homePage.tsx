@@ -1,5 +1,5 @@
 import React from 'react'
-import { Footer } from '../../components/footer'
+import { Footer } from '../../components/Footer/footer'
 import { ReviewVideo } from '../../components/Iframe/iframe'
 import { PageContainer, StyledContainer } from './homePage.styles'
 

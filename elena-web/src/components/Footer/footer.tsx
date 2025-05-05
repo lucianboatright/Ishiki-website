@@ -1,5 +1,5 @@
 import React from 'react'
-import { FooterContainer, StyledContainerFooterStart, StyledContainerFooterEnd } from './Footer/footer.styles'
+import { FooterContainer, StyledContainerFooterStart, StyledContainerFooterEnd } from './footer.styles'
 
 
 
