@@ -18,5 +18,5 @@ export const StyledContainer = styled.div({
     paddingBottom: '3rem',
     fontSize: '200px',
     color: 'white',
-    marginLeft: '30px',
+    marginLeft: '40px',
 });
